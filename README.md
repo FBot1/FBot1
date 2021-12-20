@@ -9,3 +9,4 @@ FBot1/FBot1 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 hi Im fr and want to learn code so much please help.. thanks .. 
+I want to colaborate with this new way of personal finance thanks..
